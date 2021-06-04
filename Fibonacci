@@ -1,0 +1,28 @@
+# Using For loop          
+a=int(input(" Enter the terms: "))
+b=0                                         
+c=1                                         
+if a<=0:
+    print("Please enter positive term",f)
+else:
+    print(b,c,end=" ")
+    for x in range(2,a):
+        next=b+c                           
+        print(next,end=" ")
+        b=c
+        c=next
+       
+       
+# Using While loop
+n = int(input("Enter the terms you want to print: "))
+a = 0
+b = 1
+sum = 0
+count = 1
+print("Fibonacci Series: ", end = " ")
+while(count <= n):
+  print(sum, end = " ")
+  count += 1
+  a = b
+  b = sum
+  sum = a + b
