@@ -6,7 +6,7 @@
 - 🔭 I just created an script to join my classes!
 - 🌱 I’m currently learning everything 🤣
 - 👯 Aim to work in Redhat!
-- 🥅 2021 Goals: RHCE RHCE
+- 🥅 2021 Goals: RHCE RHCA
 - ⚡ Fun fact: My typing speed is 80 WPM, I love to do typing at my free time!
 
 ---
